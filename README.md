@@ -1,9 +1,12 @@
 # linuxAudioTools
-Linux Audio Tools
+Linux Audio Tools,tutorials,repositories,books
 
+# Repositories
+- KXStudio: KXStudio is a collection of tools and tweaks, targetted at audio and video production.
+https://kx.studio/Repositories
 
 # Tutorials
-- Audio/Music production in Linux Part 1: Setting up JACK Audio
+- Audio/Music production in Linux Part 1: Setting up JACK Audio:
 http://bcacciaaudio.com/2018/01/30/audio-music-production-in-linux-part-1-setting-up-jack-audio/
 
 # Books
