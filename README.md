@@ -1,6 +1,14 @@
 # linuxAudioTools
 Linux Audio Tools
 
+
+# Tutorials
+- Audio/Music production in Linux Part 1: Setting up JACK Audio
+http://bcacciaaudio.com/2018/01/30/audio-music-production-in-linux-part-1-setting-up-jack-audio/
+
+
+# Tools
+
 - Guitarrix
 https://guitarix.org/
 
