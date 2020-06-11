@@ -5,7 +5,7 @@ Linux Audio Tools
 1. Download the folder
 2. Run:
 ./waf configure
--Note: packages that you need
+3. Note: packages that you need
 msgfmt
 perl
 intltool-merge
