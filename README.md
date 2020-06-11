@@ -2,6 +2,8 @@
 Linux Audio Tools
 
 - Guitarrix
+https://guitarix.org/
+
 1. Download the folder
 2. Run:
 ./waf configure
