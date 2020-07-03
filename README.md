@@ -8,6 +8,8 @@ https://kx.studio/Repositories
 # Tutorials
 - Audio/Music production in Linux Part 1: Setting up JACK Audio:
 http://bcacciaaudio.com/2018/01/30/audio-music-production-in-linux-part-1-setting-up-jack-audio/
+-Pulseaudio and latency
+https://juho.tykkala.fi/Pulseaudio-and-latency
 
 # Books
 -Ubuntu Studio Audio Handbook
