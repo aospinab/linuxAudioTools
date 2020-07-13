@@ -35,3 +35,9 @@ jack
 libcurl
 font Roboto COndensed
 sassc: https://askubuntu.com/questions/849057/how-to-install-libsass-on-ubuntu-16-04
+
+-Cadence: GUI for Jack
+https://kx.studio/Applications:Cadence
+1. download .zip
+2. sudo su, ./Cadence
+3. problems with libQtSvg.so -> sudo apt install libqt4-svg
