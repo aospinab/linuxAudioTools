@@ -36,7 +36,7 @@ libcurl
 font Roboto COndensed
 sassc: https://askubuntu.com/questions/849057/how-to-install-libsass-on-ubuntu-16-04
 
--Cadence: GUI for Jack
+- Cadence: GUI for Jack
 https://kx.studio/Applications:Cadence
 1. download .zip
 2. sudo su, ./Cadence
